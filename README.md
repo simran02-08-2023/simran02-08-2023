@@ -109,14 +109,9 @@ Backend API Rate Limiter built using **Spring Boot, Redis and Token Bucket Algor
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=simran02-08-2023&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran02-08-2023&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=simran02-08-2023&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran02-08-2023&layout=compact&theme=github_dark&hide_border=true" height="170" />
 </p>
-
----
 
 # 🔥 GitHub Streak
 

@@ -11,7 +11,7 @@
   <a href="https://simran02-08-2023.github.io/Simran-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/yUVZRc2Gbf/">
+  <a href="https://leetcode.com/u/next_commit/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="mailto:singhanchal33141@gmail.com">

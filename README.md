@@ -132,7 +132,7 @@ Backend API Rate Limiter built using **Spring Boot, Redis and Token Bucket Algor
 
 <a href="https://leetcode.com/u/next_commit/">
 
-<img src="https://leetcard.jacoblin.cool/yUVZRc2Gbf?theme=dark&font=Baloo&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/next_commit?theme=dark&font=Baloo&ext=contest"/>
 
 </a>
 
@@ -142,7 +142,7 @@ Backend API Rate Limiter built using **Spring Boot, Redis and Token Bucket Algor
 
 # 💻 Coding Profiles
 
-- 🟠 LeetCode: https://leetcode.com/u/yUVZRc2Gbf/
+- 🟠 LeetCode: https://leetcode.com/u/next_commit/
 - ⚫ GitHub: https://github.com/simran02-08-2023
 
 # 🎯 Current Focus
@@ -167,7 +167,7 @@ Backend API Rate Limiter built using **Spring Boot, Redis and Token Bucket Algor
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages"/>
 </a>
 
-<a href="https://leetcode.com/u/yUVZRc2Gbf/">
+<a href="https://leetcode.com/u/next_commit/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 

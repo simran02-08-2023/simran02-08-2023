@@ -1,108 +1,197 @@
 <h1 align="center">Hi 👋, I'm Simran Singh</h1>
-<h3 align="center">Software Engineering Student | Java Developer | Full Stack Developer</h3>
 
 <p align="center">
-I'm a 3rd Year B.Tech CSE student passionate about Software Engineering, Data Structures & Algorithms, and building real-world applications.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+Developer;Full+Stack+Web+Developer;DSA+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/simran-singh1128">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://simran02-08-2023.github.io/Simran-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/yUVZRc2Gbf/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:singhanchal33141@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 3rd Year B.Tech CSE Student
-- ☕ Primary Language: Java
-- 📚 Solving DSA problems on LeetCode
-- 🌐 Building Full Stack Web Applications
-- 🚀 Interested in Backend Development & System Design
-- 🌱 Currently learning Spring Boot and Redis
+🎓 3rd Year B.Tech Computer Science Student
+
+☕ Primary Language: **Java**
+
+📚 Passionate about **Data Structures & Algorithms**
+
+🌐 Building **Full Stack Web Applications**
+
+🚀 Interested in **Backend Development** and **System Design**
+
+💼 Currently preparing for **Software Engineering Internships**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,mysql" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase" />
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Spring Boot
 - Redis
-- Docker
 - System Design
+- Data Structures and Algorithms
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📚 BatchPulse
-Student & Batch Management Platform
+## 📚 [BatchPulse](https://github.com/simran02-08-2023/batchpulse)
 
-**Tech:** Next.js • TypeScript • Tailwind CSS • Supabase
-
----
-
-### 🌦 India Climate Twin
-
-AI-powered Climate Intelligence Platform
+Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind CSS and Supabase**.
 
 ---
 
-### 🏦 Bank Management System
+## 🌦 [India Climate Twin](https://github.com/simran02-08-2023/nexacore-climate-twin)
 
-Desktop Banking Application using Java Swing, JDBC & MySQL
-
----
-
-### ⚡ Distributed Rate Limiter
-
-Spring Boot • Redis • Token Bucket Algorithm
+AI-powered Climate Intelligence Platform for visualizing and analyzing climate datasets.
 
 ---
 
-## 📈 GitHub Stats
+## 🏦 [Bank Management System](https://github.com/simran02-08-2023/Bank-Management-System)
 
-(Add GitHub Stats Card)
-
----
-
-## 🏆 LeetCode
-
-(Add LeetCode Stats Card)
+Desktop Banking Application built using **Java Swing, JDBC and MySQL**.
 
 ---
 
-## 📫 Connect With Me
+## ⚡ [Distributed Rate Limiter](https://github.com/simran02-08-2023/distributed-rate-limiter)
 
-- LinkedIn
-- Portfolio
-- Email
+Backend API Rate Limiter built using **Spring Boot, Redis and Token Bucket Algorithm**.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=simran02-08-2023&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran02-08-2023&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=simran02-08-2023&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simran02-08-2023&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🏆 LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/yUVZRc2Gbf/">
+
+<img src="https://leetcard.jacoblin.cool/yUVZRc2Gbf?theme=dark&font=Baloo&ext=contest"/>
+
+</a>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+- 🟠 LeetCode: https://leetcode.com/u/yUVZRc2Gbf/
+- ⚫ GitHub: https://github.com/simran02-08-2023
+
+# 🎯 Current Focus
+
+- 🚀 Building scalable Full Stack Applications
+- 📚 Solving LeetCode problems regularly
+- ☕ Learning Spring Boot
+- ⚡ Exploring Backend Development & System Design
+- 💼 Preparing for Software Engineering Internships
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/simran-singh1128">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://simran02-08-2023.github.io/Simran-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages"/>
+</a>
+
+<a href="https://leetcode.com/u/yUVZRc2Gbf/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="mailto:singhanchal33141@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
+

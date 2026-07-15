@@ -130,7 +130,7 @@ Backend API Rate Limiter built using **Spring Boot, Redis and Token Bucket Algor
 
 <p align="center">
 
-<a href="https://leetcode.com/u/yUVZRc2Gbf/">
+<a href="https://leetcode.com/u/next_commit/">
 
 <img src="https://leetcard.jacoblin.cool/yUVZRc2Gbf?theme=dark&font=Baloo&ext=contest"/>
 

@@ -167,6 +167,12 @@ Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind 
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simran02-08-2023/simran02-08-2023/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
 # 🤝 Connect With Me
 
 <p align="center">

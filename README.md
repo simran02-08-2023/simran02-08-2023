@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Simran Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+Developer;Full+Stack+Web+Developer;DSA+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;
+Java+Developer;
+Learning+DevOps;
+DSA+Enthusiast;
+Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -29,9 +33,9 @@
 
 📚 Passionate about **Data Structures & Algorithms**
 
-🌐 Building **Full Stack Web Applications**
+🐧 Currently learning **DevOps** through hands-on labs and real-world projects.
 
-🚀 Interested in **Backend Development** and **System Design**
+🚀 Interested in **Backend Development**, **Cloud**, and **DevOps**
 
 💼 Currently preparing for **Software Engineering Internships**
 
@@ -42,25 +46,25 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,mysql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=java,python,bash,js,html,css" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase" />
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+### DevOps (Learning)
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,aws,bash" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,redis" />
 </p>
 
 ### Tools
@@ -74,17 +78,19 @@
 # 🌱 Currently Learning
 
 - Spring Boot
-- Redis
-- System Design
+- Linux
+- Docker
+- AWS
+- DevOps Fundamentals
 - Data Structures and Algorithms
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Works
 
-## 📚 [BatchPulse](https://github.com/simran02-08-2023/batchpulse)
+## 🚀 [1-Year of DevOps](https://github.com/simran02-08-2023/1-year-of-devops)
 
-Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind CSS and Supabase**.
+Documenting my DevOps learning journey through notes, hands-on labs, mini projects, and real-world implementations.
 
 ---
 
@@ -103,6 +109,12 @@ Desktop Banking Application built using **Java Swing, JDBC and MySQL**.
 ## ⚡ [Distributed Rate Limiter](https://github.com/simran02-08-2023/distributed-rate-limiter)
 
 Backend API Rate Limiter built using **Spring Boot, Redis and Token Bucket Algorithm**.
+
+---
+
+## 📚 [BatchPulse](https://github.com/simran02-08-2023/batchpulse)
+
+Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind CSS and Supabase**.
 
 ---
 
@@ -147,11 +159,11 @@ Backend API Rate Limiter built using **Spring Boot, Redis and Token Bucket Algor
 
 # 🎯 Current Focus
 
-- 🚀 Building scalable Full Stack Applications
+- ☕ Building Java & Spring Boot projects
+- 🐧 Learning DevOps fundamentals through hands-on practice
 - 📚 Solving LeetCode problems regularly
-- ☕ Learning Spring Boot
-- ⚡ Exploring Backend Development & System Design
-- 💼 Preparing for Software Engineering Internships
+- ☁ Exploring Linux, Docker and AWS
+- 💼 Preparing for Software Engineering & DevOps Internships
 
 ---
 

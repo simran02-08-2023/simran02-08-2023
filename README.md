@@ -118,16 +118,6 @@ Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind 
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=simran02-08-2023&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">

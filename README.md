@@ -145,9 +145,10 @@ Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind 
 # 💻 Coding Profiles
 
 - 🟠 LeetCode: https://leetcode.com/u/next_commit/
-- ⚫ GitHub: https://github.com/simran02-08-2023
-- 🟠 GeeksForGeeks: https://www.geeksforgeeks.org/profile/singhanch7xop?tab=activity
-- ⚫ CodeChef: https://www.codechef.com/users/army_coast_10
+- ⚫ CodeForces: https://codeforces.com/profile/Simran_Singh33141?csrf_token=aca39e32acf9bb13c52a96cec6eee9cc
+- 🟠 GitHub: https://github.com/simran02-08-2023
+- ⚫ GeeksForGeeks: https://www.geeksforgeeks.org/profile/singhanch7xop?tab=activity
+- 🟠 CodeChef: https://www.codechef.com/users/army_coast_10
 
 # 🎯 Current Focus
 

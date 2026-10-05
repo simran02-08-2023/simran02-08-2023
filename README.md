@@ -167,11 +167,8 @@ Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind 
 
 # 📈 GitHub Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simran02-08-2023&theme=github-compact"/>
-
-</p>
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 # 🐍 Contribution Snake
 

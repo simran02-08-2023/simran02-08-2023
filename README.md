@@ -131,14 +131,81 @@ Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind 
 
 ---
 
-# 💻 Coding Profiles
+# 🏆 Coding Progress
 
-* 🟠 [LeetCode](https://leetcode.com/u/next_commit/)
-* ⚫ [Codeforces](https://codeforces.com/profile/Simran_Singh33141)
-* 🟢 [GeeksForGeeks](https://www.geeksforgeeks.org/profile/singhanch7xop)
-* 🟠 [CodeChef](https://www.codechef.com/users/army_coast_10)
+### 🟠 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/next_commit/">
+    <img src="https://leetcard.jacoblin.cool/next_commit?theme=dark&font=Baloo" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/next_commit/">
+    🔗 View LeetCode Profile
+  </a>
+</p>
 
 ---
+
+### 🟢 GeeksforGeeks
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/singhanch7xop">
+    <img src="https://gfg-stats.tashif.codes/singhanch7xop/stats/svg?theme=dark" alt="GeeksforGeeks Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/singhanch7xop">
+    🔗 View GeeksforGeeks Profile
+  </a>
+</p>
+
+### 📊 GFG Activity
+
+<p align="center">
+  <img src="https://gfg-stats.tashif.codes/singhanch7xop/heatmap?view=last_365" alt="GeeksforGeeks Activity Heatmap" />
+</p>
+
+---
+
+### ⚫ Codeforces
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Simran_Singh33141">
+    <img src="https://codeforces-stats.tashif.codes/Simran_Singh33141/stats/svg?theme=dark" alt="Codeforces Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Simran_Singh33141">
+    🔗 View Codeforces Profile
+  </a>
+</p>
+
+---
+
+### 🍳 CodeChef
+
+<p align="center">
+  <a href="https://www.codechef.com/users/army_coast_10">
+    🔗 View CodeChef Profile
+  </a>
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+| Platform         | Profile                                                               |
+| ---------------- | --------------------------------------------------------------------- |
+| 🟠 LeetCode      | [next_commit](https://leetcode.com/u/next_commit/)                    |
+| 🟢 GeeksforGeeks | [singhanch7xop](https://www.geeksforgeeks.org/profile/singhanch7xop)  |
+| ⚫ Codeforces     | [Simran_Singh33141](https://codeforces.com/profile/Simran_Singh33141) |
+| 🍳 CodeChef      | [army_coast_10](https://www.codechef.com/users/army_coast_10)         |
+
 
 # 🎯 Current Focus
 

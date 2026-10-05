@@ -170,7 +170,7 @@ Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind 
 <p align="center">
   <a href="https://github.com/simran02-08-2023">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=simran02-08-2023&theme=github-compact&hide_border=true&radius=12&area=true&days=31"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=simran02-08-2023&bg_color=0d1117&color=58a6ff&line=00d4aa&point=58a6ff&area=true&area_color=00d4aa&hide_border=true&radius=12&days=31"
       width="95%"
       alt="GitHub Contribution Graph"
     />

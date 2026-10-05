@@ -113,23 +113,6 @@ Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran02-08-2023&layout=compact&hide_border=true" height="170"/>
 </p>
 
----
-
-# 🏆 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/next_commit/">
-    <img src="https://leetcard.jacoblin.cool/next_commit?theme=dark&font=Baloo" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/next_commit/">
-    View my LeetCode Profile →
-  </a>
-</p>
-
----
 
 # 🏆 Coding Progress
 
@@ -169,33 +152,7 @@ Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind 
   <img src="https://gfg-stats.tashif.codes/singhanch7xop/heatmap?view=last_365" alt="GeeksforGeeks Activity Heatmap" />
 </p>
 
----
 
-### ⚫ Codeforces
-
-<p align="center">
-  <a href="https://codeforces.com/profile/Simran_Singh33141">
-    <img src="https://codeforces-stats.tashif.codes/Simran_Singh33141/stats/svg?theme=dark" alt="Codeforces Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/Simran_Singh33141">
-    🔗 View Codeforces Profile
-  </a>
-</p>
-
----
-
-### 🍳 CodeChef
-
-<p align="center">
-  <a href="https://www.codechef.com/users/army_coast_10">
-    🔗 View CodeChef Profile
-  </a>
-</p>
-
----
 
 # 💻 Coding Profiles
 

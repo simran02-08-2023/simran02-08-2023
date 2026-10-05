@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simran Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;
-Java+Developer;
-Learning+DevOps;
-DSA+Enthusiast;
-Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+Developer;Learning+DevOps;DSA+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -33,97 +29,88 @@ Always+Learning+New+Things" />
 
 📚 Passionate about **Data Structures & Algorithms**
 
-🐧 Currently learning **DevOps** through hands-on labs and real-world projects.
+🐧 Currently learning **DevOps** through hands-on labs and projects
 
-🚀 Interested in **Backend Development**, **Cloud**, and **DevOps**
+🚀 Interested in **Backend Development, Cloud & DevOps**
 
-💼 Currently preparing for **Software Engineering Internships**
+💼 Preparing for **Software Engineering & DevOps Internships**
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+### ☕ Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,bash,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,bash,js,html,css" />
 </p>
 
-### Backend
+### 🌱 Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
-### DevOps (Learning)
+### 🐧 DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,aws,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,githubactions,aws" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,redis" />
 </p>
 
-### Tools
+### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
 ---
 
 # 🌱 Currently Learning
 
-- Spring Boot
-- Linux
-- Docker
-- AWS
-- DevOps Fundamentals
-- Data Structures and Algorithms
+* Spring Boot
+* Linux
+* Docker
+* AWS
+* DevOps Fundamentals
+* Data Structures & Algorithms
 
 ---
 
-# 🚀 Featured Works
+# 🚀 Featured Projects
 
-## 🚀 [1-Year of DevOps](https://github.com/simran02-08-2023/1-year-of-devops)
+### 🚀 [1-Year of DevOps](https://github.com/simran02-08-2023/1-year-of-devops)
 
-Documenting my DevOps learning journey through notes, hands-on labs, mini projects, and real-world implementations.
+Documenting my DevOps learning journey through notes, hands-on labs, mini projects and real-world implementations.
 
----
-
-## 🌦 [India Climate Twin](https://github.com/simran02-08-2023/nexacore-climate-twin)
+### 🌦 [India Climate Twin](https://github.com/simran02-08-2023/nexacore-climate-twin)
 
 AI-powered Climate Intelligence Platform for visualizing and analyzing climate datasets.
 
----
+### 🏦 [Bank Management System](https://github.com/simran02-08-2023/Bank-Management-System)
 
-## 🏦 [Bank Management System](https://github.com/simran02-08-2023/Bank-Management-System)
+Desktop banking application built using **Java Swing, JDBC and MySQL**.
 
-Desktop Banking Application built using **Java Swing, JDBC and MySQL**.
+### ⚡ [Distributed Rate Limiter](https://github.com/simran02-08-2023/distributed-rate-limiter)
 
----
+Backend API rate limiter built using **Spring Boot, Redis and Token Bucket Algorithm**.
 
-## ⚡ [Distributed Rate Limiter](https://github.com/simran02-08-2023/distributed-rate-limiter)
-
-Backend API Rate Limiter built using **Spring Boot, Redis and Token Bucket Algorithm**.
-
----
-
-## 📚 [BatchPulse](https://github.com/simran02-08-2023/batchpulse)
+### 📚 [BatchPulse](https://github.com/simran02-08-2023/batchpulse)
 
 Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind CSS and Supabase**.
 
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simran02-08-2023&theme=github-compact"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=simran02-08-2023&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran02-08-2023&layout=compact&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -131,54 +118,68 @@ Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind 
 # 🏆 LeetCode
 
 <p align="center">
+  <a href="https://leetcode.com/u/next_commit/">
+    <img src="https://leetcard.jacoblin.cool/next_commit?theme=dark&font=Baloo" />
+  </a>
+</p>
 
-<a href="https://leetcode.com/u/next_commit/">
-
-<img src="https://leetcard.jacoblin.cool/next_commit?theme=dark&font=Baloo&ext=contest"/>
-
-</a>
-
+<p align="center">
+  <a href="https://leetcode.com/u/next_commit/">
+    View my LeetCode Profile →
+  </a>
 </p>
 
 ---
 
 # 💻 Coding Profiles
 
-- 🟠 LeetCode: https://leetcode.com/u/next_commit/
-- ⚫ CodeForces: https://codeforces.com/profile/Simran_Singh33141?csrf_token=aca39e32acf9bb13c52a96cec6eee9cc
-- 🟠 GeeksForGeeks: https://www.geeksforgeeks.org/profile/singhanch7xop?tab=activity
-- ⚫ CodeChef: https://www.codechef.com/users/army_coast_10
-
-# 🎯 Current Focus
-
-- ☕ Building Java & Spring Boot projects
-- 🐧 Learning DevOps fundamentals through hands-on practice
-- 📚 Solving LeetCode problems regularly
-- ☁ Exploring Linux, Docker and AWS
-- 💼 Preparing for Software Engineering & DevOps Internships
+* 🟠 [LeetCode](https://leetcode.com/u/next_commit/)
+* ⚫ [Codeforces](https://codeforces.com/profile/Simran_Singh33141)
+* 🟢 [GeeksForGeeks](https://www.geeksforgeeks.org/profile/singhanch7xop)
+* 🟠 [CodeChef](https://www.codechef.com/users/army_coast_10)
 
 ---
 
-## 🐍 Contribution Snake
+# 🎯 Current Focus
+
+* ☕ Building **Java & Spring Boot** projects
+* 🐧 Learning **DevOps** through hands-on practice
+* 📚 Solving **DSA & LeetCode** problems
+* ☁️ Exploring **Linux, Docker & AWS**
+* 💼 Preparing for **Software Engineering & DevOps Internships**
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran02-08-2023&theme=github-compact&hide_border=true" width="95%" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/simran02-08-2023/simran02-08-2023/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
+
+---
 
 # 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/simran-singh1128">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://simran02-08-2023.github.io/Simran-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/next_commit/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:singhanchal33141@gmail.com">
@@ -190,6 +191,6 @@ Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+  ⭐ Thanks for visiting my profile!
 </p>
 

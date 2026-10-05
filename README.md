@@ -146,6 +146,18 @@ Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind 
   </a>
 </p>
 
+## 📈 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/simran02-08-2023">
+    <img
+      src="https://github-readme-activity-graph-q757y4q87-simran11.vercel.app/graph?username=simran02-08-2023&bg_color=ffffff&color=24292e&line=2f80ed&point=24292e&area=true&hide_border=true&radius=12&height=300"
+      width="95%"
+      alt="Simran Singh GitHub Activity Graph"
+    />
+  </a>
+</p>
+
 
 # 💻 Coding Profiles
 
@@ -165,17 +177,7 @@ Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind 
 * ☁️ Exploring **Linux, Docker & AWS**
 * 💼 Preparing for **Software Engineering & DevOps Internships**
 
-# 📈 GitHub Contribution Graph
 
-<p align="center">
-  <a href="https://github.com/simran02-08-2023">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=simran02-08-2023&bg_color=0d1117&color=58a6ff&line=00d4aa&point=58a6ff&area=true&area_color=00d4aa&hide_border=true&radius=12&days=31"
-      width="95%"
-      alt="GitHub Contribution Graph"
-    />
-  </a>
-</p>
 
 # 🐍 Contribution Snake
 

@@ -146,13 +146,6 @@ Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind 
   </a>
 </p>
 
-### 📊 GFG Activity
-
-<p align="center">
-  <img src="https://gfg-stats.tashif.codes/singhanch7xop/heatmap?view=last_365" alt="GeeksforGeeks Activity Heatmap" />
-</p>
-
-
 
 # 💻 Coding Profiles
 
@@ -172,15 +165,13 @@ Student & Batch Management Platform built using **Next.js, TypeScript, Tailwind 
 * ☁️ Exploring **Linux, Docker & AWS**
 * 💼 Preparing for **Software Engineering & DevOps Internships**
 
----
-
 # 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran02-08-2023&theme=github-compact&hide_border=true" width="95%" />
-</p>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simran02-08-2023&theme=github-compact"/>
+
+</p>
 
 # 🐍 Contribution Snake
 
